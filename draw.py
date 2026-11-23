@@ -143,7 +143,7 @@ GRID = [
     ("EUROPE", NAVY, "EUROPE PROTESTS, DAY THREE",
      "Protests across Europe enter day three over living costs and housing; France now six weekends in a row."),
     ("FINLAND", NAVY, "FINLAND: WAR IS SPILLING OVER",
-     "After a drone strike on a Russian cargo ship in the Baltic Sea."),
+     "Finland warns the war is spilling over after a drone hit a Russian cargo ship in the Baltic Sea."),
 ]
 
 ALSO = [
